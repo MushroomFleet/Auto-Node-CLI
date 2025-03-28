@@ -1,0 +1,3 @@
+https://github.com/username/custom-node-repo1
+https://github.com/another-user/custom-node-repo2
+https://github.com/third-user/amazing-comfy-nodes
